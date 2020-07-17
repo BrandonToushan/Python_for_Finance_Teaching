@@ -3,4 +3,4 @@ This repo contains all teaching materials (resources, notebooks, scripts) for my
 
 Example: Visualizating TSLA 30 & 100 Day Rolling Avg 
 
-![alt text](https://github.com/BrandonToushan/Python-for-Finance-Teaching/blob/master/images/tsla_rolling.png
+![alt text](https://github.com/BrandonToushan/Python-for-Finance-Teaching/blob/master/images/tsla_rolling.png)
